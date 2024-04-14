@@ -9,7 +9,7 @@
 
 <div align="center">
     <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-3.png" alt="qualitative-3" >
-    </a>
+    </img>
     <br />
 </div>
 
@@ -43,18 +43,7 @@ mAP<sup>mask</sup>@0.5:0.95    | 79.58%
 
 Below, the qualitative results are presented.
 
-<p align="center">
-
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-1.png" alt="qualitative-1" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-2.png" alt="qualitative-2" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-3.png" alt="qualitative-3" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-4.png" alt="qualitative-4" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-5.png" alt="qualitative-5" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-6.png" alt="qualitative-6" >
-    <img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-7.png" alt="qualitative-7" >
-
-    <br /> Few samples of qualitative results from the ViT-based Mask R-CNN model.
-</p>
+<p align="center"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-1.png" alt="qualitative-1"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-2.png" alt="qualitative-2"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-3.png" alt="qualitative-3"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-4.png" alt="qualitative-4"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-5.png" alt="qualitative-5"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-6.png" alt="qualitative-6"><img src="https://github.com/reshalfahsi/instance-segmentation-vit-maskrcnn/blob/master/assets/qualitative-7.png" alt="qualitative-7"><br /> Few samples of qualitative results from the ViT-based Mask R-CNN model.</p>
 
 
 ## Credit
