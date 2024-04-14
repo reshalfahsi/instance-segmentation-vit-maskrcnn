@@ -14,7 +14,7 @@
 </div>
 
 
-Instance segmentation aims at dichotomizing a pixel acting as a sub-object of a unique entity in the scene. One of approaches, by combining object detection and semantic segmentation, is Mask R-CNN. Furthermore, we can also incorporate ViT as the backbone of Mask R-CNN. In this project, the ViT-based Mask R-CNN model is evaluated on the dataset from the Penn-Fudan Database for Pedestrian Detection and Segmentation. With a ratio of 80:10:10, the train, validation, and test sets is distributed.
+Instance segmentation aims at dichotomizing a pixel acting as a sub-object of a unique entity in the scene. One of the approaches, which combines object detection and semantic segmentation, is Mask R-CNN. Furthermore, we can also incorporate ViT as the backbone of Mask R-CNN. In this project, the ViT-based Mask R-CNN model is evaluated on the dataset from the Penn-Fudan Database for Pedestrian Detection and Segmentation. With a ratio of 80:10:10, the train, validation, and test sets are distributed.
 
 
 ## Experiment
